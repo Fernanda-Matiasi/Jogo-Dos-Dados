@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dados em Telas</string>
+    <string name="d20">D20</string>
+    <string name="d12">D12</string>
+    <string name="d6">D6</string>
+    <string name="todo">TODO</string>
+    <string name="qual_dado_voc_deseja_jogar">Qual dado você deseja jogar?</string>
+</resources>
